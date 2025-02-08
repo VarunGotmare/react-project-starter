@@ -1,4 +1,4 @@
-# 🚀 React + Vite + Tailwind Starter Template
+# [![Reac](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React + Vite + Tailwind Starter Template
 
 A minimal and optimized starter template for React applications, built with Vite and pre-configured with Tailwind CSS. This setup provides fast builds, instant hot module replacement (HMR), and an effortless developer experience. 🎨⚡
 
