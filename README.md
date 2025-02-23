@@ -20,7 +20,7 @@ A minimal and optimized starter template for React applications, built with Vite
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/VarunGotmare/react-project-starte
+git clone https://github.com/VarunGotmare/react-project-starter
 cd react-vite-tailwind-template
 ```
 
